@@ -22,4 +22,4 @@ def generateParenthesis(A):
     solve(Open, Close, op, res)
     return res
     
-print(generateParenthesis(1))
+print(generateParenthesis(5))
